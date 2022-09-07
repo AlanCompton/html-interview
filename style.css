@@ -1,0 +1,52 @@
+body{
+    background-color:aqua ;
+}
+
+.div{
+    border: solid 4px; 
+    color: blue; 
+    padding: 25px;
+    box-shadow: 2px 7px coral;
+}
+
+.pic{
+    border-radius: 50px;
+}
+
+.li{
+    margin: 10px;
+    font-style: italic;
+}
+
+#div1{
+    background-color:bisque;
+}
+
+#div2{
+    background-color:beige;
+}
+
+#div3{
+    background-color:navajowhite;
+}
+
+#div4{
+    background-color: blanchedalmond;
+}
+
+#h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#alan{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#raymond{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#mario{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
