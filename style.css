@@ -1,37 +1,20 @@
-#title {
-    padding: 35px;
-    margin: 35px;
-    color: antiquewhite;
+div {
+    border-style: solid;
+    border-color: blue;
+    padding: 25pxs;
+    background-color: aquamarine;
 }
 
-#AC {
-    background-color: turquoise;
-    
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#TD {
-    background-color: rgb(226, 77, 77);
+img {
+    border-radius: 50px;
 }
 
-.top {
-    padding: 35px;
-    margin: 35px;
-    text-align: center;
+li {
+    margin: 10px;
+    font-style: italic;
 }
 
-.img {
-    border-radius: 6px;
-    width: 400px;
-}
-
-body {
-    background-color: black;
-    border-radius: 6px;
-}
-
-.list {
-    padding: 25px;
-    margin: 20px;
-    font-size: 18px;
-    color: antiquewhite;
-}
